@@ -1,11 +1,6 @@
 {
   "categories" : [
     {
-      "href" : "\/ebooks\/bookshelf\/100",
-      "id" : "100",
-      "title" : "Erdem"
-    },
-    {
       "href" : "\/ebooks\/bookshelf\/644",
       "id" : "644",
       "title" : "Adventure"
@@ -2392,26 +2387,6 @@
         "href" : "\/ebooks\/bookshelf\/644",
         "id" : "644",
         "title" : "Adventure"
-      },
-      "lastUpdated" : "2025-11-17T10:14:00Z"
-    }
-    
-    ,
-    "100" : {
-      "books" : [
-        {
-          "author" : "Herman Melville",
-          "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/2701\/pg2701.cover.small.jpg",
-          "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/2701",
-          "id" : "2701",
-          "title" : "Moby Dick; Or, The Whale"
-        }
-
-      ],
-      "category" : {
-        "href" : "\/ebooks\/bookshelf\/100",
-        "id" : "100",
-        "title" : "Erdem"
       },
       "lastUpdated" : "2025-11-17T10:14:00Z"
     },
@@ -13514,6 +13489,7 @@
   "lastUpdated" : "2025-11-17T10:14:00Z",
   "version" : 1
 }
+
 
 
 
