@@ -2212,6 +2212,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/2701\/pg2701.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/2701",
           "id" : "2701",
+          "opening" : "Call me Ishmael.",
           "title" : "Moby Dick; Or, The Whale"
         },
         {
@@ -2219,6 +2220,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/1259\/pg1259.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/1259",
           "id" : "1259",
+          "opening" : "In a room of the Palais Cardinal, formerly styled the Palais Royal, a man was sitting in deep thought, his head resting on his hands, leaning over a table covered with letters and papers.",
           "title" : "Twenty years after"
         },
         {
@@ -2226,6 +2228,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/76\/pg76.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/76",
           "id" : "76",
+          "opening" : "You don't know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain't no matter.",
           "title" : "Adventures of Huckleberry Finn"
         },
         {
@@ -2233,6 +2236,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/1184\/pg1184.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/1184",
           "id" : "1184",
+          "opening" : "On the 24th of February, 1815, the look-out at Notre-Dame de la Garde signalled the three-master, the Pharaon from Smyrna, Trieste, and Naples.",
           "title" : "The Count of Monte Cristo"
         },
         {
@@ -2240,6 +2244,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/74\/pg74.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/74",
           "id" : "74",
+          "opening" : "Tom!",
           "title" : "The Adventures of Tom Sawyer, Complete"
         },
         {
@@ -2247,6 +2252,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/120\/pg120.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/120",
           "id" : "120",
+          "opening" : "SQUIRE TRELAWNEY, Doctor Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen in the year of grace 17\u001a, and go back to the time when my father kept the \"Admiral Benbow\" inn, and the brown old seaman, with the sabre-cut, first took up his lodging under our roof.",
           "title" : "Treasure Island"
         },
         {
@@ -2254,6 +2260,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/55\/pg55.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/55",
           "id" : "55",
+          "opening" : "DOROTHY lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
           "title" : "The Wonderful Wizard of Oz"
         },
         {
@@ -2261,6 +2268,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/16\/pg16.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/16",
           "id" : "16",
+          "opening" : "All children, except one, grow up.",
           "title" : "Peter Pan : [Peter and Wendy]"
         },
         {
@@ -2268,6 +2276,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/829\/pg829.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/829",
           "id" : "829",
+          "opening" : "My father had a small estate in Nottinghamshire; I was the third of five sons.",
           "title" : "Gulliver's Travels into Several Remote Nations of the World"
         },
         {
@@ -2282,6 +2291,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/521\/pg521.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/521",
           "id" : "521",
+          "opening" : "I was born in the year 1632, in the city of York, of a good family, though not of that country, my father being a foreigner of Bremen, who settled first at Hull.",
           "title" : "The Life and Adventures of Robinson Crusoe"
         },
         {
@@ -2289,6 +2299,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/57426\/pg57426.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/57426",
           "id" : "57426",
+          "opening" : "BULGER was not himself at all, dear friends.",
           "title" : "Baron Trump's Marvellous Underground Journey"
         },
         {
@@ -2296,6 +2307,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/236\/pg236.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/236",
           "id" : "236",
+          "opening" : "It was seven o'clock on a warm evening in India's Seeonee hills when Father Wolf woke from his day's rest.",
           "title" : "The Jungle Book"
         },
         {
@@ -2303,6 +2315,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/10636\/pg10636.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/10636",
           "id" : "10636",
+          "opening" : "Great Princes, Emperors, and Kings, Dukes and Marquises, Counts, Knights, and Burgesses! and People of all degrees who desire to get knowledge of the various races of mankind and of the diversities of the sundry regions of the World, take this Book and cause it to be read to you.",
           "title" : "The Travels of Marco Polo — Volume 1"
         },
         {
@@ -2310,6 +2323,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/164\/pg164.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/164",
           "id" : "164",
+          "opening" : "The year 1866 was signalised by a remarkable incident, a mysterious and puzzling phenomenon, which doubtless no one has yet forgotten.",
           "title" : "Twenty Thousand Leagues under the Sea"
         },
         {
@@ -2317,6 +2331,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/18857\/pg18857.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/18857",
           "id" : "18857",
+          "opening" : "On the 24th of May, 1863, my uncle, Professor Lidenbrock, returned hurriedly to his little house, No. 19 Königstrasse, one of the oldest streets in the oldest portion of the city of Hamburg.",
           "title" : "A Journey to the Centre of the Earth"
         },
         {
@@ -2324,6 +2339,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/215\/pg215.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/215",
           "id" : "215",
+          "opening" : "Buck did not read the newspapers, or he would have known that trouble was brewing not alone for himself, but for every tidewater dog, strong of muscle and with warm, long hair, from Puget Sound to San Diego.",
           "title" : "The call of the wild"
         },
         {
@@ -2331,6 +2347,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/1257\/pg1257.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/1257",
           "id" : "1257",
+          "opening" : "On the first Monday of the month of April, 1625, the market town of Meung, in which the author of the 'Romance of the Rose' was born, appeared to be in as perfect a state of revolution as if the Huguenots had just made a second La Rochelle of it.",
           "title" : "The three musketeers"
         },
         {
@@ -2338,6 +2355,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/3011\/pg3011.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/3011",
           "id" : "3011",
+          "opening" : "Harp of the North! that mouldering long hast hung",
           "title" : "The Lady of the Lake"
         },
         {
@@ -2345,6 +2363,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/103\/pg103.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/103",
           "id" : "103",
+          "opening" : "Looking back to all that has occurred to me since that eventful day, I am scarcely able to believe in the reality of my adventures.",
           "title" : "Around the World in Eighty Days"
         },
         {
@@ -2352,6 +2371,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/6133\/pg6133.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/6133",
           "id" : "6133",
+          "opening" : "The thousand and one nights of Arsène Lupin!",
           "title" : "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar"
         },
         {
@@ -2359,6 +2379,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/1170\/pg1170.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/1170",
           "id" : "1170",
+          "opening" : "Darius and Parysatis had two sons: the elder was named Artaxerxes, and the younger Cyrus.",
           "title" : "Anabasis"
         },
         {
@@ -2366,6 +2387,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/910\/pg910.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/910",
           "id" : "910",
+          "opening" : "Dark spruce forest frowned on either side the frozen waterway.",
           "title" : "White Fang"
         },
         {
@@ -2373,6 +2395,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/1874\/pg1874.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/1874",
           "id" : "1874",
+          "opening" : "The beginning of things - They were not railway children at the beginning...",
           "title" : "The Railway Children"
         },
         {
@@ -2380,6 +2403,7 @@
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/940\/pg940.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/940",
           "id" : "940",
+          "opening" : "It was a feature peculiar to the colonial wars of North America, that the toils and dangers of the wilderness were to be encountered before the adverse hosts could meet.",
           "title" : "The Last of the Mohicans; A narrative of 1757"
         }
       ],
@@ -13489,7 +13513,3 @@
   "lastUpdated" : "2025-11-17T10:14:00Z",
   "version" : 1
 }
-
-
-
-
