@@ -913,13 +913,6 @@
     "637" : {
       "books" : [
         {
-          "author" : "William Shakespeare",
-          "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/100\/pg100.cover.small.jpg",
-          "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/100",
-          "id" : "100",
-          "title" : "The Complete Works of William Shakespeare"
-        },
-        {
           "author" : "Homer",
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/16328\/pg16328.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/16328",
@@ -1843,13 +1836,6 @@
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/1513",
           "id" : "1513",
           "title" : "Romeo and Juliet"
-        },
-        {
-          "author" : "William Shakespeare",
-          "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/100\/pg100.cover.small.jpg",
-          "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/100",
-          "id" : "100",
-          "title" : "The Complete Works of William Shakespeare"
         },
         {
           "author" : "Oscar Wilde",
@@ -3199,13 +3185,6 @@
           "title" : "Alice's Adventures in Wonderland"
         },
         {
-          "author" : "William Shakespeare",
-          "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/100\/pg100.cover.small.jpg",
-          "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/100",
-          "id" : "100",
-          "title" : "The Complete Works of William Shakespeare"
-        },
-        {
           "author" : "Nathaniel Hawthorne",
           "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/25344\/pg25344.cover.small.jpg",
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/25344",
@@ -3930,13 +3909,6 @@
           "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/11",
           "id" : "11",
           "title" : "Alice's Adventures in Wonderland"
-        },
-        {
-          "author" : "William Shakespeare",
-          "coverURLString" : "https:\/\/www.gutenberg.org\/cache\/epub\/100\/pg100.cover.small.jpg",
-          "detailURLString" : "https:\/\/www.gutenberg.org\/ebooks\/100",
-          "id" : "100",
-          "title" : "The Complete Works of William Shakespeare"
         },
         {
           "author" : "E. M. Forster",
